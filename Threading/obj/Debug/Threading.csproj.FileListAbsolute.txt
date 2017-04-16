@@ -1,0 +1,9 @@
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\bin\Debug\Threading.exe.config
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\bin\Debug\Threading.exe
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\bin\Debug\Threading.pdb
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\obj\Debug\Threading.Form1.resources
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\obj\Debug\Threading.Properties.Resources.resources
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\obj\Debug\Threading.csproj.GenerateResource.Cache
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\obj\Debug\Threading.exe
+S:\CSE\T.Y\SEM-6\C#\DrawShapes\Threading\obj\Debug\Threading.pdb
